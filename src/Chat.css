@@ -3,3 +3,19 @@
     flex: .65;
 
 }
+
+.chatHeader {
+
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    border-bottom:1px solid lightgray;
+
+}
+
+.chatHeader_info {
+
+    flex: 1;
+    padding-left: 20px;
+
+}
