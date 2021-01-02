@@ -49,7 +49,20 @@ function Chat() {
 
             <div className= 'chatBody'>
 
+                <p className= {'chatMessage ${true && "chatReciever"}'}>
+                <span className= "chatname ">Shahrukh Sadiq</span>
+                
+                Hey Guys, my name is Shahrukh
+                <span className='timestamp'>
 
+                    3.52pm
+
+                </span>
+                
+                
+                </p>
+
+                
 
             </div>
 
